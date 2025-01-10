@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proxy on OLink-official - Be free and find what you want</title>
+    <link>https://olink-official.github.io/tags/proxy/</link>
+    <description>Recent content in Proxy on OLink-official - Be free and find what you want</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>lfazwf123@gma.com (OLink)</managingEditor>
+    <webMaster>lfazwf123@gma.com (OLink)</webMaster>
+    <lastBuildDate>Wed, 08 Jan 2025 16:01:23 +0800</lastBuildDate>
+    <atom:link href="https://olink-official.github.io/tags/proxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proxy Tools</title>
+      <link>https://olink-official.github.io/post/proxy_tools/</link>
+      <pubDate>Thu, 02 Jan 2025 16:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
+      <guid>https://olink-official.github.io/post/proxy_tools/</guid>
+      <description>&lt;h2 id=&#34;update-content&#34;&gt;Update Content&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use &lt;a href=&#34;https://picocss.com/&#34;&gt;Pico CSS&lt;/a&gt; as the color scheme, allowing theme color switching and dark/light mode toggle.&lt;/li&gt;&#xA;&lt;li&gt;Customize Your Homepage.&lt;/li&gt;&#xA;&lt;li&gt;Added STYLE SETTINGS, located at &lt;code&gt;/assets/sass/_settings.scss&lt;/code&gt; .&lt;/li&gt;&#xA;&lt;li&gt;Deprecated the Category page, merging it into the Archive page.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Please note that due to the extensive modifications, some areas may still need refinement. I appreciate your understanding!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

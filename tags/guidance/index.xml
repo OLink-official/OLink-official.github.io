@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Preview on OLink-official - Be free and find what you want</title>
-    <link>http://localhost:1313/tags/preview/</link>
-    <description>Recent content in Preview on OLink-official - Be free and find what you want</description>
+    <title>Guidance on OLink-official - Be free and find what you want</title>
+    <link>https://olink-official.github.io/tags/guidance/</link>
+    <description>Recent content in Guidance on OLink-official - Be free and find what you want</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>lfazwf123@gma.com (OLink)</managingEditor>
     <webMaster>lfazwf123@gma.com (OLink)</webMaster>
     <lastBuildDate>Wed, 08 Jan 2025 16:01:23 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/preview/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://olink-official.github.io/tags/guidance/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jane Theme V3 Major Update</title>
-      <link>http://localhost:1313/post/jane-theme-v3-major-update/</link>
-      <pubDate>Tue, 07 Jan 2025 16:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
-      <guid>http://localhost:1313/post/jane-theme-v3-major-update/</guid>
+      <title>Proxy Tools</title>
+      <link>https://olink-official.github.io/post/proxy_tools/</link>
+      <pubDate>Thu, 02 Jan 2025 16:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
+      <guid>https://olink-official.github.io/post/proxy_tools/</guid>
       <description>&lt;h2 id=&#34;update-content&#34;&gt;Update Content&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use &lt;a href=&#34;https://picocss.com/&#34;&gt;Pico CSS&lt;/a&gt; as the color scheme, allowing theme color switching and dark/light mode toggle.&lt;/li&gt;&#xA;&lt;li&gt;Customize Your Homepage.&lt;/li&gt;&#xA;&lt;li&gt;Added STYLE SETTINGS, located at &lt;code&gt;/assets/sass/_settings.scss&lt;/code&gt; .&lt;/li&gt;&#xA;&lt;li&gt;Deprecated the Category page, merging it into the Archive page.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Please note that due to the extensive modifications, some areas may still need refinement. I appreciate your understanding!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Jane Theme Preview</title>
-      <link>http://localhost:1313/post/jane-theme-preview/</link>
-      <pubDate>Wed, 01 Jan 2025 16:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
-      <guid>http://localhost:1313/post/jane-theme-preview/</guid>
+      <title>Guidance</title>
+      <link>https://olink-official.github.io/post/guidance/</link>
+      <pubDate>Thu, 02 Jan 2025 16:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
+      <guid>https://olink-official.github.io/post/guidance/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is created by &lt;a href=&#34;http://daringfireball.net/&#34;&gt;Daring Fireball&lt;/a&gt;, the original guideline is &lt;a href=&#34;http://daringfireball.net/projects/markdown/syntax&#34;&gt;here&lt;/a&gt;. Its syntax, however, varies between different parsers or editors.&lt;/p&gt;&#xA;&lt;p&gt;Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.&lt;/p&gt;</description>
     </item>
   </channel>
