@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on OLink-official - Be free and find what you want</title>
+    <link>https://olink-official.github.io/author/</link>
+    <description>Recent content in Author on OLink-official - Be free and find what you want</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>lfazwf123@gma.com (OLink)</managingEditor>
+    <webMaster>lfazwf123@gma.com (OLink)</webMaster>
+    <lastBuildDate>Wed, 08 Jan 2025 16:01:23 +0800</lastBuildDate>
+    <atom:link href="https://olink-official.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OLink</title>
+      <link>https://olink-official.github.io/author/olink/</link>
+      <pubDate>Thu, 02 Jan 2025 16:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
+      <guid>https://olink-official.github.io/author/olink/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
