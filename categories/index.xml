@@ -8,20 +8,27 @@
     <language>en</language>
     <managingEditor>lfazwf123@gma.com (OLink)</managingEditor>
     <webMaster>lfazwf123@gma.com (OLink)</webMaster>
-    <lastBuildDate>Wed, 08 Jan 2025 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 12:01:23 +0800</lastBuildDate>
     <atom:link href="https://olink-official.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guidance</title>
+      <link>https://olink-official.github.io/categories/guidance/</link>
+      <pubDate>Sat, 11 Jan 2025 11:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
+      <guid>https://olink-official.github.io/categories/guidance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PDF</title>
+      <link>https://olink-official.github.io/categories/pdf/</link>
+      <pubDate>Sat, 11 Jan 2025 12:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
+      <guid>https://olink-official.github.io/categories/pdf/</guid>
+      <description></description>
+    </item>
     <item>
       <title>APP</title>
       <link>https://olink-official.github.io/categories/app/</link>
       <pubDate>Thu, 02 Jan 2025 16:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
       <guid>https://olink-official.github.io/categories/app/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guidance</title>
-      <link>https://olink-official.github.io/categories/guidance/</link>
-      <pubDate>Thu, 02 Jan 2025 16:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
-      <guid>https://olink-official.github.io/categories/guidance/</guid>
       <description></description>
     </item>
   </channel>

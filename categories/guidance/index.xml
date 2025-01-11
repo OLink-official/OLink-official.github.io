@@ -8,14 +8,21 @@
     <language>en</language>
     <managingEditor>lfazwf123@gma.com (OLink)</managingEditor>
     <webMaster>lfazwf123@gma.com (OLink)</webMaster>
-    <lastBuildDate>Wed, 08 Jan 2025 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 11:01:23 +0800</lastBuildDate>
     <atom:link href="https://olink-official.github.io/categories/guidance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node shop</title>
+      <link>https://olink-official.github.io/post/node_shop/</link>
+      <pubDate>Sat, 11 Jan 2025 11:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
+      <guid>https://olink-official.github.io/post/node_shop/</guid>
+      <description>&lt;h1 id=&#34;reconmmended-node-shop&#34;&gt;Reconmmended Node Shop&lt;/h1&gt;&#xA;&lt;p&gt;After reading this post, you should read &lt;a href=&#34;https://alllink-official.github.io/2024/10/24/Guidance/&#34;&gt;Guidance&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;机场众多勿买廉价节点&#34;&gt;机场众多，勿买廉价节点&lt;/h2&gt;&#xA;&lt;p&gt;可选择的机场很多，但也不乏有几元/月的节点，这些机场存在安全风险，请慎重考虑。价格高的机场拥有更好的速度与服务，如果不愿意在此方面花销太多，可以选择免费的节点，它们多源于博主的分享，在此不予分享，请自行检索。接下来为大家推荐几个经典老牌机场，他们经营多年，跑路风险相对较低。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Proxy Tools</title>
       <link>https://olink-official.github.io/post/proxy_tools/</link>
       <pubDate>Thu, 02 Jan 2025 16:01:23 +0800</pubDate><author>lfazwf123@gma.com (OLink)</author>
       <guid>https://olink-official.github.io/post/proxy_tools/</guid>
-      <description>&lt;h2 id=&#34;update-content&#34;&gt;Update Content&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use &lt;a href=&#34;https://picocss.com/&#34;&gt;Pico CSS&lt;/a&gt; as the color scheme, allowing theme color switching and dark/light mode toggle.&lt;/li&gt;&#xA;&lt;li&gt;Customize Your Homepage.&lt;/li&gt;&#xA;&lt;li&gt;Added STYLE SETTINGS, located at &lt;code&gt;/assets/sass/_settings.scss&lt;/code&gt; .&lt;/li&gt;&#xA;&lt;li&gt;Deprecated the Category page, merging it into the Archive page.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Please note that due to the extensive modifications, some areas may still need refinement. I appreciate your understanding!&lt;/p&gt;</description>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&lt;head&gt;&#xA;&lt;title&gt;A Post make all devices connect the whole World&lt;/title&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&lt;p&gt;After reading this post, you should read &lt;a href=&#34;https://alllink-official.github.io/2024/10/24/Guidance/&#34;&gt;Guidance&lt;/a&gt;&#xA;or &lt;a href=&#34;https://alllinkofficial.wordpress.com/2024/12/15/guidance/&#34;&gt;Guidance&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1&gt;A Post make all devices connect the whole World&lt;/h1&gt;&#xA;&lt;p&gt;Due to the policies of some countries or regions, many people cannot search associated-content by Google/Youtube for &#xA;studying, therefor we list mainly useful APP to achive it. We summarize the APP(Android, iOS/iPadOS/MacOS, Windows, &#xA;Linux) and provide you links. Because of open sources, they&#39;re very safe.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Guidance</title>
